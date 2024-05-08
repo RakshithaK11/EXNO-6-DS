@@ -72,10 +72,6 @@ sns.kdeplot(data=df,x="total_bill",hue="time",multiple="layer",linewidth=3,palet
 ![327994048-4b5ba758-c8ac-47f5-ba4a-15d3139a8e1e](https://github.com/RakshithaK11/EXNO-6-DS/assets/139336455/b3aae934-301c-4ffc-b4e2-84ed949d3236)
 ![image](https://github.com/RakshithaK11/EXNO-6-DS/assets/139336455/bd6fa810-b2b7-44e2-acd0-f3421470032b)
 ![image](https://github.com/RakshithaK11/EXNO-6-DS/assets/139336455/86079e26-f976-4565-a3bb-3a7f55c0420c)
-![image](https://github.com/RakshithaK11/EXNO-6-DS/assets/139336455/5e17fe77-1f52-419c-a4ae-a3fdb
-![image](https://github.com/RakshithaK11/EXNO-6-DS/assets/139336455/73986abf-ab69-4955-9b35-df84bd9b7261)
-3cbba1f)
-![image](https://github.com/RakshithaK11/EXNO-6-DS/assets/139336455/55f95ff9-402e-4710-bdf3-dbb366212a26)
 # Result:
 Thus to perform data visualiation using seaborn python library is successfully executed using given datas.
 
