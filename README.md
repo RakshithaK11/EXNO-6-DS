@@ -2,21 +2,14 @@
 
 # Aim:
   To Perform Data Visualization using seaborn python library for the given datas.
-
 # EXPLANATION:
 Data visualization is the graphical representation of information and data. By using visual elements like charts, graphs, and maps, data visualization tools provide an accessible way to see and understand trends, outliers, and patterns in data.
-
 # Algorithm:
 STEP 1:Include the necessary Library.
-
 STEP 2:Read the given Data.
-
 STEP 3:Apply data visualization techniques to identify the patterns of the data.
-
 STEP 4:Apply the various data visualization tools wherever necessary.
-
 STEP 5:Include Necessary parameters in each functions.
-
 # Coding:
 ~~~
 Developed by:RAKSHITHA K
@@ -83,8 +76,6 @@ sns.kdeplot(data=df,x="total_bill",hue="time",multiple="layer",linewidth=3,palet
 ![image](https://github.com/RakshithaK11/EXNO-6-DS/assets/139336455/73986abf-ab69-4955-9b35-df84bd9b7261)
 3cbba1f)
 ![image](https://github.com/RakshithaK11/EXNO-6-DS/assets/139336455/55f95ff9-402e-4710-bdf3-dbb366212a26)
-
-
 # Result:
 Thus to perform data visualiation using seaborn python library is successfully executed using given datas.
 
