@@ -64,7 +64,6 @@ sns.set(style='whitegrid')
 sns.violinplot(x=df["total_bill"])
 sns.kdeplot(data=df,x="total_bill",hue="time",multiple='fill',linewidth=3,palette="Set2",alpha=0.8)
 sns.kdeplot(data=df,x="total_bill",hue="time",multiple="layer",linewidth=3,palette="Set2",alpha=0.8)
-
 ~~~
 # Output:
  ![image](https://github.com/RakshithaK11/EXNO-6-DS/assets/139336455/19ac9ab5-8134-4cc1-b858-257cb134a3a6)
@@ -73,6 +72,8 @@ sns.kdeplot(data=df,x="total_bill",hue="time",multiple="layer",linewidth=3,palet
 ![327994048-4b5ba758-c8ac-47f5-ba4a-15d3139a8e1e](https://github.com/RakshithaK11/EXNO-6-DS/assets/139336455/b3aae934-301c-4ffc-b4e2-84ed949d3236)
 ![image](https://github.com/RakshithaK11/EXNO-6-DS/assets/139336455/bd6fa810-b2b7-44e2-acd0-f3421470032b)
 ![image](https://github.com/RakshithaK11/EXNO-6-DS/assets/139336455/86079e26-f976-4565-a3bb-3a7f55c0420c)
+![image](https://github.com/RakshithaK11/EXNO-6-DS/assets/139336455/1ad4389a-dd0a-4bfe-8211-6c25846d154f)
+![image](https://github.com/RakshithaK11/EXNO-6-DS/assets/139336455/7275e58e-b90c-4d34-b70e-4262724da3d6)
 # Result:
 Thus to perform data visualiation using seaborn python library is successfully executed using given datas.
 
