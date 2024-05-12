@@ -64,6 +64,7 @@ sns.set(style='whitegrid')
 sns.violinplot(x=df["total_bill"])
 sns.kdeplot(data=df,x="total_bill",hue="time",multiple='fill',linewidth=3,palette="Set2",alpha=0.8)
 sns.kdeplot(data=df,x="total_bill",hue="time",multiple="layer",linewidth=3,palette="Set2",alpha=0.8)
+
 ~~~
 # Output:
  ![image](https://github.com/RakshithaK11/EXNO-6-DS/assets/139336455/19ac9ab5-8134-4cc1-b858-257cb134a3a6)
